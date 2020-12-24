@@ -1,7 +1,7 @@
-function teste() {
+function teste () {
   return {
-    a: 2,
-  };
+    a: 2
+  }
 }
 
-console.log("teste :>> ", teste);
+console.log('teste :>> ', teste)
